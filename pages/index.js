@@ -1,7 +1,7 @@
 import Head from "next/head";
-import Image from "next/image";
+
 import { Inter } from "@next/font/google";
-import Navbar from "@/Components/Navbar";
+
 import Main from "@/Components/Main";
 import About from "@/Components/About";
 import Skills from "@/Components/Skills";
